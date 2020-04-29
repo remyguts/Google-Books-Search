@@ -27,10 +27,6 @@ NoMatch.propTypes = {
 };
 
 export default NoMatch;
-import { Col, Container, Row } from "../components/Grid";
-import Jumbotron from "../components/Jumbotron";
-import PropTypes from "prop-types";
-import React from "react";
 
 function NoMatch({ location }) {
   return (
