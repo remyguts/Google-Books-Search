@@ -1,6 +1,6 @@
 "use strict";
 import React from "react";
-import "./style.css";
+//import "./";
 
 const Form = (props) => {
   return (
